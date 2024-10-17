@@ -17,6 +17,11 @@ The following Python libraries were used to implement the simulation:
 - **numpy**: For numerical operations and random number generation.
 - **matplotlib**: For plotting and visualizing the Brownian paths.
 
+## Acknowledgments
+This Python-based Brownian motion simulation was inspired by the MATLAB code provided by **Professor Stavros Panageas** as part of the **Stochastic Calculus** course in the Master of Financial Engineering program at UCLA.
+
+The original MATLAB code was used to simulate Brownian paths, and this project is a Python implementation of the same concept.
+
 You can install these libraries using the following command:
 ```bash
 pip install numpy matplotlib
