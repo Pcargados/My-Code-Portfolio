@@ -20,6 +20,7 @@ The following Python libraries were used to implement the simulation:
 You can install these libraries using the following command:
 ```bash
 pip install numpy matplotlib
+```
 
 ## Acknowledgments
 This Python-based Brownian motion simulation was inspired by the MATLAB code provided by **Professor Stavros Panageas** as part of the **Stochastic Calculus** course in the Master of Financial Engineering program at UCLA.
